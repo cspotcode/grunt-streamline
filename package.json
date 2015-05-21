@@ -39,5 +39,6 @@
     "gruntplugin"
   ],
   "dependencies": {
+    "streamline": "^0.12.1"
   }
 }
